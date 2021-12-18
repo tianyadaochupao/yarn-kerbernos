@@ -1,4 +1,4 @@
-package com.huawei.bigdata.https.kerberos.demo;
+package com.https.kerberos.demo;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
